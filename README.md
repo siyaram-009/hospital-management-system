@@ -20,9 +20,14 @@ Features:
   **JDBC (Java Database Connectivity)**: Used to interact with the MySQL database from Java code.
   **MySQL**: The relational database management system used to store and manage hospital data.
 
-**Setup Instructions:**
+## Getting Started
 
-**Clone the Repository:**
+To run the hospital management system on your local machine, follow these steps:
+
+1. Clone this repository to your local machine using `git clone https://github.com/siyaram-009/hospital-management-system`
+2. Navigate to the project directory: `cd hospital-management-system`
+3. Compile the Java files: `javac *.java`
+4. Run the program: `java Main`
 
 **Set Up MySQL Database:**
 
